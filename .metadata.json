@@ -1,0 +1,10 @@
+[
+  {
+    "package": "RcppAlgos",
+    "oncran": true
+  },
+  {
+    "package": "RcppBigIntAlgos",
+    "oncran": true
+  }
+]
