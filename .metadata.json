@@ -1,10 +1,10 @@
 [
   {
-    "package": "RcppBigIntAlgos",
+    "package": "RcppAlgos",
     "oncran": true
   },
   {
-    "package": "RcppAlgos",
+    "package": "RcppBigIntAlgos",
     "oncran": true
   }
 ]
