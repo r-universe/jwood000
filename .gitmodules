@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "RcppAlgos"]
-	path = RcppAlgos
-	url = https://github.com/jwood000/rcppalgos
-	shallow = true
-	registered = true
 [submodule "RcppBigIntAlgos"]
 	path = RcppBigIntAlgos
 	url = https://github.com/jwood000/rcppbigintalgos
+	shallow = true
+	registered = true
+[submodule "RcppAlgos"]
+	path = RcppAlgos
+	url = https://github.com/jwood000/rcppalgos
 	shallow = true
 	registered = true
